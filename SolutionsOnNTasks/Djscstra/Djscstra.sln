@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Djscstra", "Djscstra\Djscstra.csproj", "{9FC820D6-E593-45A7-A88B-E8CBD5026235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC820D6-E593-45A7-A88B-E8CBD5026235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC820D6-E593-45A7-A88B-E8CBD5026235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC820D6-E593-45A7-A88B-E8CBD5026235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC820D6-E593-45A7-A88B-E8CBD5026235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
